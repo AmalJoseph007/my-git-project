@@ -1,1 +1,2 @@
 this is a sample txt file 1
+This edit on file 1 is made git hub and its ready to be pushed
